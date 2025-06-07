@@ -1,0 +1,14 @@
+name,address,city,county,zip,latitude,longitude,services,contact_name,contact_phone,contact_email,hotline_number,website_url,type
+"Safe Haven Shelter","123 Main Street","Austin","Travis","78701",30.2672,-97.7431,"Emergency shelter,Counseling,Legal advocacy","Sarah Johnson","512-555-0101","sarah@safehaven.org","800-799-7233","https://safehaven.org","DV"
+"Hope Center","456 Oak Avenue","Houston","Harris","77002",29.7604,-95.3698,"Counseling,Support groups,Crisis intervention","Maria Rodriguez","713-555-0202","maria@hopecenter.org","713-528-2121","https://hopecenter.org","SA"
+"Family Crisis Center","789 Pine Road","Dallas","Dallas","75201",32.7767,-96.7970,"Emergency shelter,Counseling,Legal advocacy,Childcare","David Chen","214-555-0303","david@familycrisis.org","214-946-4357","https://familycrisis.org","Dual"
+"Women's Resource Center","321 Elm Street","San Antonio","Bexar","78205",29.4241,-98.4936,"Counseling,Support groups,Job training","Jennifer Williams","210-555-0404","jennifer@wrc.org","210-733-7273","https://wrc.org","DV"
+"Survivor Support Network","654 Cedar Lane","Fort Worth","Tarrant","76102",32.7555,-97.3308,"Crisis intervention,Legal advocacy,Financial assistance","Michael Brown","817-555-0505","michael@ssn.org","817-927-2737","https://ssn.org","SA"
+"Community Safe Space","987 Maple Drive","El Paso","El Paso","79901",31.7619,-106.4850,"Emergency shelter,Counseling,Support groups","Lisa Garcia","915-555-0606","lisa@safespace.org","915-593-7300","https://safespace.org","Dual"
+"Healing Hearts Center","147 Birch Street","Plano","Collin","75023",33.0198,-96.6989,"Counseling,Art therapy,Support groups","Amanda Taylor","972-555-0707","amanda@healinghearts.org","972-881-9817","https://healinghearts.org","SA"
+"Refuge House","258 Willow Way","Arlington","Tarrant","76010",32.7357,-97.1081,"Emergency shelter,Transitional housing,Legal advocacy","Robert Martinez","817-555-0808","robert@refugehouse.org","817-277-0196","https://refugehouse.org","DV"
+"Crisis Response Team","369 Spruce Circle","Corpus Christi","Nueces","78401",27.8006,-97.3964,"Crisis intervention,Counseling,24/7 hotline","Emily Davis","361-555-0909","emily@crt.org","361-881-8888","https://crt.org","Dual"
+"New Beginnings Center","741 Aspen Boulevard","Lubbock","Lubbock","79401",33.5779,-101.8552,"Counseling,Job training,Housing assistance","James Wilson","806-555-1010","james@newbeginnings.org","806-747-5292","https://newbeginnings.org","DV"
+"Strength & Support","852 Hickory Lane","Amarillo","Potter","79101",35.2220,-101.8313,"Support groups,Counseling,Legal advocacy","Rachel Thompson","806-555-1111","rachel@strength.org","806-374-5433","https://strength.org","SA"
+"Safe Harbor","963 Poplar Street","Beaumont","Jefferson","77701",30.0860,-94.1018,"Emergency shelter,Counseling,Crisis intervention","Kevin Anderson","409-555-1212","kevin@safeharbor.org","409-832-7273","https://safeharbor.org","Dual"
+
